@@ -51,3 +51,37 @@ To run the notebooks, you need to install the following libraries:
 You can install the required libraries using the following command:
 ```bash
 pip install numpy pandas matplotlib tensorflow torch
+
+Neural-Networks-From-Scratch/
+│
+├── 1-Introduction/
+│   ├── What_is_a_Neural_Network.ipynb
+│   ├── History_of_Neural_Networks.ipynb
+│   └── Applications_of_Neural_Networks.ipynb
+│
+├── 2-Basics/
+│   ├── Perceptron.ipynb
+│   ├── Activation_Functions.ipynb
+│   └── Gradient_Descent.ipynb
+│
+├── 3-Building_Blocks/
+│   ├── Forward_Propagation.ipynb
+│   ├── Backpropagation.ipynb
+│   └── Loss_Functions.ipynb
+│
+├── 4-Implementing_Neural_Networks/
+│   ├── Simple_Neural_Network.ipynb
+│   ├── Deep_Neural_Network.ipynb
+│   └── Convolutional_Neural_Network.ipynb
+│
+├── 5-Advanced_Topics/
+│   ├── Regularization.ipynb
+│   ├── Optimizers.ipynb
+│   └── Transfer_Learning.ipynb
+│
+├── 6-Projects/
+│   ├── MNIST_Classification.ipynb
+│   ├── Image_Style_Transfer.ipynb
+│   └── Sentiment_Analysis.ipynb
+│
+└── README.md
